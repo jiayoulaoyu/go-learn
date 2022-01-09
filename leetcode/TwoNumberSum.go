@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+两数之和
+*/
 func main() {
 	fmt.Println(twoSum([]int{1, 3, 4}, 4))
 
